@@ -1,10 +1,20 @@
 {
    "users": [
       {
+         "id": "65dh44th8g89jgjg",
+         "username": "thenoroozi",
+         "password": "hamed1380",
+         "fullname": "حامد نوروزی",
+         "birthDate": "2001-8-25",
+         "mobile": "09302505722",
+         "role": "ADMIN"
+      },
+      {
          "id": "65dh44th854vn4nn1",
          "username": "hamed123",
          "password": "hamed123",
          "fullname": "حامد نوروزی",
+         "birthDate": "2000-2-19",
          "mobile": "09301230010",
          "role": "USER"
       }
